@@ -1,1 +1,4 @@
-exports.exampleModel = [];
+exampleModel = [];
+
+module.exports = exampleModel;
+
